@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run expense_tracker CLI",
+      "type": "Python 3.13.5",
+      "request": "launch",
+      "module": "expense_tracker.main",
+      "justMyCode": true,
+      "args": []
+    }
+  ]
+}
